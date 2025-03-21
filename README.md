@@ -6,9 +6,6 @@ Este projeto contém dois scripts Python que utilizam a API do **The Movie Datab
 
 Antes de rodar os scripts, você precisa:
 1. **Python 3.8 ou superior** instalado no seu computador. Baixe em [python.org](https://www.python.org/).
-2. Uma conta no **TMDb** e uma **chave de API** válida:
-   - Crie uma conta no [TMDb](https://www.themoviedb.org/).
-   - Gere sua chave de API acessando as configurações do seu perfil, na aba **API**.
 
 ## Estrutura do Projeto
 
@@ -24,7 +21,6 @@ Antes de rodar os scripts, você precisa:
 2. Abra o terminal na pasta do projeto.
 3.Instale as dependências necessárias executando:
   pip install -r requirements.txt
-4. No código dos scripts, substitua "SUA_CHAVE_API" pela sua chave de API gerada no TMDb.
 
 ## Como Executar os Scripts
 
