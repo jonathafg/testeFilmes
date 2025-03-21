@@ -5,7 +5,7 @@ Este projeto contém dois scripts Python que utilizam a API do **The Movie Datab
 ## Pré-requisitos
 
 Antes de rodar os scripts, você precisa:
-1. **Python 3.8 ou superior** instalado no seu computador. Baixe em [python.org](https://www.python.org/).
+1. **Python 3.8 ou superior** instalado no seu computador. Baixe em [python.org](https://www.python.org/downloads).
 
 ## Estrutura do Projeto
 
@@ -20,7 +20,9 @@ Antes de rodar os scripts, você precisa:
 1. Clone ou baixe este repositório no seu computador.
 2. Abra o terminal na pasta do projeto.
 3.Instale as dependências necessárias executando:
+```plaintext
   pip install -r requirements.txt
+```
 
 ## Como Executar os Scripts
 
