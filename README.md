@@ -53,7 +53,7 @@ Uso
 ```plaintext
 id_filme = 550  # ID de exemplo: Clube da Luta
 ```
-  3. Execute o script com:
+  2. Execute o script com:
 
 ```plaintext
 python teste_2.py
